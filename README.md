@@ -1,14 +1,5 @@
 ## Messenger App using Laravel and Vue.JS
 
-[Youtube Tutorial link](https://www.youtube.com/watch?v=5sXmfwnxfjA&list=PLJpBh2VJhy5x2GKfkfIcn0r6P6uLat7xR)
-
-#### [@WeCodeTutorials](https://twitter.com/WeCodeTutorials)
-[![Logo](https://cdn.pbrd.co/images/HdwCut8.png)](https://www.youtube.com/channel/UCj9VatwdukZjNOnIKcpWcsA)
-
-This project is made for my youtube tutorial on "Messenger App with Laravel, Vue.JS & Laravel Echo".
-
-![App Example](https://media.giphy.com/media/8cARsYOk9DmCLZTZOb/giphy.gif)
-
 ## get it up and running.
 
 After you clone this project, do the following:
@@ -60,11 +51,5 @@ php artisan db:seed
 npm run watch
 ```
 
-## Setup pusher
-
-- Visit [Pusher website](https://pusher.com), sign up and create your first app (it's free).
-- Next. copy the new keys to your `.env` file.
-- Make sure the necessary settings are enabled
-![Pusher app settings](https://user-images.githubusercontent.com/17595033/64108972-fb7b8a00-cd86-11e9-97ab-d2a3f7699b71.png)
 
 Good Luck :)
